@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=notahmadraza&label=Profile%20views&color=0e75b6&style=flat" alt="notahmadraza" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=notahmadraza" alt="notahmadraza" /></a> </p>
-
 - 🔭 I’m currently working on [Detection of crowd moments using deep learning](https://link.springer.com/article/10.1007/s00138-021-01182-w)
 
 - 🌱 I’m currently learning **React Native,Pytorch,Scikit-learn**
